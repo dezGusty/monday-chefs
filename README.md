@@ -8,4 +8,4 @@ test repo
 
 ### Type B
 
-[Adrian Todor] (chefs/todor-adrian.md)
+[Adrian Todor](chefs/todor-adrian.md)
