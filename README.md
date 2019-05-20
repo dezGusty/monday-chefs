@@ -5,6 +5,7 @@ test repo
 
 ### Type A
 
+[Dragos Galan](chefs/dragos-galan.md)
 
 ### Type B
 
